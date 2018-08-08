@@ -5,7 +5,7 @@ puts STUDENT_NAMES.first
 end
 
 def fourth_student_by_index
-  puts STUDENT_NAMES.[3]
+  puts STUDENT_NAMES
 end
 
 def last_student_by_index
